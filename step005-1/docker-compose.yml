@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  hello-nginx:
+    build: .
+    ports:
+      - '81:80'
