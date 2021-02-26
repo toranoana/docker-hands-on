@@ -14,7 +14,7 @@ docker-compose build
 docker-conpose up -d
 ```
 
-## コンテナ内のコンソールに入る
+## コンテナ内のコンソールに入る
 
 ```shell
 docker-compose exec my-app bash
