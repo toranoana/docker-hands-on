@@ -23,7 +23,7 @@ docker-compose exec my-app bash
 ## Railsアプリケーションを作成する
 
 ```shell
-rails new . -d mysql
+rails new . -d mysql -S -J
 ```
 
 config/database.yml を開き hostを変更する
