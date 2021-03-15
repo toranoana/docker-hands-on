@@ -5,7 +5,7 @@ Nginx建ててみるDockerCompose編
 ## イメージを実行
 
 ```shell
-docker-conpose up -d
+docker-compose up -d
 ```
 
 ## コンテナを停止・削除

@@ -11,7 +11,7 @@ docker-compose build
 ## イメージを実行
 
 ```shell
-docker-conpose up -d
+docker-compose up -d
 ```
 
 ## コンテナを停止
