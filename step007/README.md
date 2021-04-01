@@ -55,3 +55,13 @@ rails server --binding=0.0.0.0
 ```
 
 Webブラウザで http://localhost:3000/users へアクセス
+
+## コンテナを停止・削除
+
+```shell
+# 停止
+docker-compose stop
+
+# 削除
+docker-compose down
+```
