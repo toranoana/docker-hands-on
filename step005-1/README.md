@@ -2,6 +2,8 @@
 
 Nginx建ててみるDockerCompose編
 
+※ コマンド実行はsourcesディレクトリで行ってください。
+
 ## コンテナイメージをビルド
 
 ```shell
