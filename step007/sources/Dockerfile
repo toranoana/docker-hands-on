@@ -4,7 +4,7 @@ ARG WORKDIR=/var/www/my-app
 
 ENV LANG=C.UTF-8 TZ=Asia/Tokyo
 
-RUN apt-get update && apt-get install -y nodejs npm mariadb-client
+RUN apt-get update && apt-get install -y nodejs npm mariadb-client shared-mime-info
 
 RUN gem install rails
 
