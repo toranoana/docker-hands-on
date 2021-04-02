@@ -3,6 +3,7 @@
 # Nginx建てる
 
 ```shell
+docker pull nginx
 docker run --name hello-nginx -d -p 81:80 nginx
 ```
 

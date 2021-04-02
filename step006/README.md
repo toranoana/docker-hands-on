@@ -7,6 +7,7 @@ MySQL建ててみる
 ## イメージを実行
 
 ```shell
+docker-compose pull
 docker-compose up -d
 ```
 

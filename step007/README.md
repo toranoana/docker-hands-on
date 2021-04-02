@@ -7,6 +7,7 @@ Railsアプリケーション構築
 ## コンテナイメージをビルド
 
 ```shell
+docker-compose pull
 docker-compose build
 ```
 
