@@ -59,6 +59,9 @@ Webブラウザで http://localhost:3000/users へアクセス
 ## コンテナを停止・削除
 
 ```shell
+# コンテナから出る
+exit
+
 # 停止
 docker-compose stop
 
